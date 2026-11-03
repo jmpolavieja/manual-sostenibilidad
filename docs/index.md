@@ -4,7 +4,6 @@ layout: home
 hero:
   name: "Sostenibilidad en FP"
   text: "Aplicada al Sistema Productivo (SMR)"
-  text: "Josemaría García de Polavieja Ferre"
   tagline: "Manual docente y recursos prácticos para la integración de criterios ASG y economía circular en informática."
   actions:
     - theme: brand
