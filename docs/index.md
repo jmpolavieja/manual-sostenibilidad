@@ -5,6 +5,9 @@ hero:
   name: "Sostenibilidad en FP"
   text: "Aplicada al Sistema Productivo (SMR)"
   tagline: "Manual docente y recursos prácticos para la integración de criterios ASG y economía circular en informática."
+  image:
+    src: /logo-transparente.png
+    alt: Logo de Altair
   actions:
     - theme: brand
       text: Comenzar Unidad 1

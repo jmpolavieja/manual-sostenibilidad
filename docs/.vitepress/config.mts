@@ -7,6 +7,8 @@ export default defineConfig({
   description: "Un manual sobre la asignatura Sostenibilidad de los Sectores Productivos de 1º de SMR - Altair",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: "Escudo.jpg",
+    siteTitle: "Sostenibilidad",
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Unidades', link: '/unidades/ud1-fundamentos-asg-circular' },
